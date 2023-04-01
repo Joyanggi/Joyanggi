@@ -18,7 +18,7 @@
 <p></p>
 <p></p>
 <p></p>
-<h2 align="center">📚 Github Status 📚</h2>
+<h2 align="center">:pencil: Github Status 📚</h2>
 <p></p>
 <div align="center">
   
