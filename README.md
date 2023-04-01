@@ -4,7 +4,7 @@
 <div align="center">
   <div>
     <h2 align="center">👋 Hello World! </h2>
-    <p>백엔드 개발자를 준비하고있는 조양기입니다.</p>
+    <p>백엔드 개발자를 준비하고있는 조양기입니다</p>
   </div>
   <div>
     <h2 align="center">📚 Tech Stack </h2>
