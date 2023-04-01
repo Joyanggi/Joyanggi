@@ -18,7 +18,8 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyanggi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyanggi&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyanggi&theme=tokyonight) -->
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
