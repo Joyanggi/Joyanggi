@@ -16,7 +16,7 @@
   </div>
 </div>
 <p></p>
-<hr>
+<h2 align="center">📚 Tech Stack 📚</h2>
 <p></p>
 <div align="center">
   
