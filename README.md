@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Joyanggi%20Dev&fontSize=90)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Joyanggi%20Dev&fontSize=90)
+</div
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -13,8 +15,10 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   </div>
 </div>
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyanggi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyanggi&theme=tokyonight)
-
+</div>
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
+</div>
