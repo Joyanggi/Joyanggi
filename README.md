@@ -14,5 +14,5 @@
   </div>
 </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyanggi&show_icons=true&theme=tokyonight)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
