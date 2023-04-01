@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&text=capsule%20render&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <div>
 <img src='https://img.shields.io/badge/-Java-brightgreen'>
 <img src='https://img.shields.io/badge/-Spring-yellow'>
@@ -8,3 +8,4 @@
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyanggi&show_icons=true&theme=radical)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
