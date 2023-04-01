@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&text=Joyanggi%20Dev&fontSize=90)
 
 <div>
 <img src='https://img.shields.io/badge/-Java-brightgreen'>
@@ -8,4 +8,4 @@
 </div>
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&fontSize=90)
