@@ -30,6 +30,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyanggi&langs_count=8&theme=tokyonight)
   
+<h1 align="center">📚 Algorithm </h1>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyg8033)](https://solved.ac/jyg8033)
   
 </div>
