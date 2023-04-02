@@ -3,11 +3,11 @@
 
 <div align="center">
   <div>
-    <h2 align="center">👋 Hello World! </h2>
+    <h1 align="center">👋 Hello World! </h1>
     <p>백엔드 개발자를 준비하고있는 조양기입니다</p>
   </div>
   <div>
-    <h2 align="center">📚 Tech Stack </h2>
+    <h1 align="center">📚 Tech Stack </h1>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -22,7 +22,7 @@
 <p></p>
 <p></p>
 <p></p>
-<h2 align="center">:pencil: Github Stats </h2>
+<h1 align="center">:pencil: Github Stats </h1>
 <p></p>
 <div align="center">
   
