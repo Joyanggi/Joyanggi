@@ -7,6 +7,10 @@
     <p>주니어 백엔드 개발자 조양기입니다</p>
   </div>
   <div>
+    <h1 align="center">🧑‍💻 Now </h1>
+    <p>23.10.10 ~ KT 스마트메시지 RCS 고도화</p>
+  </div>
+  <div>
     <h1 align="center">📚 Tech Stack </h1>
 <!--     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -19,7 +23,7 @@
   </div>
 
   <div>
-    <h1 align="center"> Tools </h1>
+    <h1 align="center">🔧 Tools </h1>
     <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
   </div>
   
