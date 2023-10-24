@@ -1,5 +1,5 @@
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jo&nbsp;yanggi%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jo&nbsp;yanggi%20&fontSize=70)
 
 <div align="center">
   <div>
