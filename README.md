@@ -8,7 +8,7 @@
   </div>
   <div>
     <h1 align="center">🧑‍💻 Now </h1>
-    <p>23.10.10 ~ KT 스마트메시지 RCS Biz Center API 연돈 개발 및 SM 고도화</p>
+    <p>23.10.10 ~ KT 스마트메시지 RCS Biz Center API 연동 개발 및 SM 고도화</p>
   </div>
   <div>
     <h1 align="center">📚 Tech Stack </h1>
