@@ -25,7 +25,7 @@
 
   <div>
     <h1 align="center">🔧 Tools </h1>
-    <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
+    <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </div>
   
 </div>
