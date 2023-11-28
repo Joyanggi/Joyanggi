@@ -7,9 +7,15 @@
     <p>주니어 백엔드 개발자 조양기입니다</p>
   </div>
     <h1 align="center">🧑‍💻 Now </h1>
-    <h3>23.10.10 ~ ing [KT 스마트메시지 RCS Biz Center API 연동 개발 및 SM 고도화]</h3>
-    <p>  ~ 23.11.28 : 발송량 현황 조회 개발 완료</p>
-    <p>  ~ 23.11.10 : 포탈메시지 통계, 포탈메시지 실시간 통계 개발 완료</p>
+  <table>
+    <th><h3>23.10.10 ~ ing [KT 스마트메시지 RCS Biz Center API 연동 개발 및 SM 고도화]</h3></th>
+    <tr>
+      <td><p>  ~ 23.11.28 : 발송량 현황 조회 개발 완료</p></td>
+    </tr>
+    <tr>
+      <td><p>  ~ 23.11.10 : 포탈메시지 통계, 포탈메시지 실시간 통계 개발 완료</p></td>
+    </tr>
+  </table>
   <div>
     <h1 align="center">📚 Tech Stack </h1>
 <!--     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
