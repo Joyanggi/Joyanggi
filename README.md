@@ -8,7 +8,7 @@
   </div>
   <div>
     <h1 align="center">🧑‍💻 Now </h1>
-    <h5 align="left">23.10.10 ~ KT 스마트메시지 RCS Biz Center API 연동 개발 및 SM 고도화</h5>
+    <p>23.10.10 ~ KT 스마트메시지 RCS Biz Center API 연동 개발 및 SM 고도화</p>
     <p>&nbsp ~23.11.10 : 포탈메시지 통계, 포탈메시지 실시간 통계 개발 완료</p>
     <p>&nbsp ~23.11.28 : 발송량 현황 조회 개발 완료</p>
   </div>
