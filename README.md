@@ -37,6 +37,7 @@
   <div>
     <h1 align="center">🔧 Tools </h1>
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   </div>
   
 </div>
