@@ -7,6 +7,24 @@
     <h3>주니어 백엔드 개발자 조양기입니다</h3>
   </div>
     <h1 align="center">🧑‍💻 Now </h1>
+   <table>
+    <th>
+      <h3>KT 스마트메시지 RCS Biz Center API 연동 개발 및 SM 고도화</h3>
+      <p>23.10.10 ~ ing </p>
+    </th>
+    <tr>
+      <td><p>  ~ 23.12.11 : 메시지발송(웹) 커스텀 수신 정보 업로드, 수신 번호 파일 업로드 개발 </p></td>
+    </tr>
+    <tr>
+      <td><p>  ~ 23.11.31 : RCS중계 발송포탈고도화 마이그레이션</p></td>
+    </tr>
+    <tr>
+      <td><p>  ~ 23.11.28 : 발송량 현황 조회 개발 완료</p></td>
+    </tr>
+    <tr>
+      <td><p>  ~ 23.11.10 : 포탈메시지 통계, 포탈메시지 실시간 통계 개발 완료</p></td>
+    </tr>
+  </table>
   <div>
     <h1 align="center">📚 Tech Stack </h1>
 <!--     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
