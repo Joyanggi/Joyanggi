@@ -25,6 +25,18 @@
       <td><p>  ~ 23.11.10 : 포탈메시지 통계, 포탈메시지 실시간 통계 개발 완료</p></td>
     </tr>
   </table>
+  <table>
+    <th>
+      <h3>KTDS 개발자를 위한 개발보안 실무 교육</h3>
+      <p>23.12.19 ~ 23.12.20 </p>
+    </th>
+    <tr>
+      <td><p>  ~ 23.12.10 : 개발보안 취약 사례 및 대응 방안 실습 </p></td>
+    </tr>
+    <tr>
+      <td><p>  ~ 23.12.19 : 개발보안의 이해, 보안검증 및 개발보안 설계기준, 정보보안 Compliance점검, 개발보안 취약 사례 및 대응 방안 </p></td>
+    </tr>
+  </table>
   <div>
     <h1 align="center">📚 Tech Stack </h1>
 <!--     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
