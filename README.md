@@ -2,10 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=%20&fontSize=70)
 
 <div align="center">
-  <div>
-    <h1 align="center">👋 Hello World! </h1>
-    <h3>주니어 백엔드 개발자 조양기입니다</h3>
-  </div>
     <h1 align="center">🧑‍💻 Now </h1>
    <table>
     <th>
