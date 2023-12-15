@@ -1,6 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=%20&fontSize=70)
-
 <div align="center">
     <h1 align="center">🧑‍💻 Now </h1>
    <table>
