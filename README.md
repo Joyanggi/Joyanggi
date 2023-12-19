@@ -2,7 +2,7 @@
     <h1 align="center">🧑‍💻 Now </h1>
    <table>
     <th>
-      <h3>KT 스마트메시지 RCS Biz Center API 연동 개발 및 SM 고도화</h3>
+      <h3>KT 스마트메시지 RCS Biz Center API 연동 개발 및 고도화</h3>
       <p>23.10.10 ~ ing </p>
     </th>
      <tr>
