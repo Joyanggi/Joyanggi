@@ -1,10 +1,22 @@
 <div align="center">
     <h1 align="center">🧑‍💻 Now </h1>
+    <table>
+    <th>
+      <h3>KT RCS 중계 포탈 RENEWAL</h3>
+      <p>24.02.01 ~ ing </p>
+    </th>
+    <tr>
+      <td><p> ~ 24.01.31 : 업무 배치 </p></td>
+    </tr>
+  </table>
    <table>
     <th>
       <h3>KT 스마트메시지 RCS Biz Center API 연동 개발 및 고도화</h3>
-      <p>23.10.10 ~ 24.02.15(예정) </p>
+      <p>23.10.10 ~ 24.01.31 </p>
     </th>
+    <tr>
+      <td><p>  ~ 24.01.31 : 배포작업 완료 </p></td>
+    </tr>
     <tr>
       <td><p>  ~ 24.01.17 : 브랜드 별 메시지 조회/생성/발송 테스트 (RCS, FALLBACK)</p></td>
     </tr>
