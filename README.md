@@ -15,7 +15,10 @@
       <td><p> ~ 24.01.31 : 업무배치 </p></td>
     </tr>
   </table>
-   <table>
+    <h1 align="center">🧑‍💻 History </h1>
+    <details>
+        <summary>자세히</summary>
+    <table>
     <th>
       <h3>KT 스마트메시지 RCS Biz Center API 연동 개발 및 고도화</h3>
       <p>23.10.10 ~ 24.01.31 </p>
@@ -57,6 +60,8 @@
       <td><p>  ~ 23.12.19 : 개발보안의 이해, 보안검증 및 개발보안 설계기준, 정보보안 Compliance점검, 개발보안 취약 사례 및 대응 방안 </p></td>
     </tr>
   </table>
+    </details>
+    
   <div>
     <h1 align="center">📚 Tech Stack </h1>
 <!--     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
