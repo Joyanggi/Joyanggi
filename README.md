@@ -2,7 +2,7 @@
     <h1 align="center">🧑‍💻 Now </h1>
     <table>
     <th>
-      <h3>KT RCS 중계 포탈 RENEWAL</h3>
+      <h3>KT RCS - </h3>
       <p>24.02.01 ~ ing </p>
     </th>
     <tr>
