@@ -7,14 +7,6 @@
     </th>
     <tr>
       <td>
-        <details>
-            <summary>홀딩</summary>
-                <p> ~ holding : [포탈 전체] 로그인 암호화모듈 변경 </p>
-        </details> 
-      </td>    
-    </tr>
-    <tr>
-      <td>
         <p>진행중</p>
         <p> ~ ing : [중계 고객] 메시지 발송 시 브랜드 선택 후 대표 발신 번호 자동 입력되지 않는 현상 </p>
         <p> ~ ing : [중계 고객] 메시지 편집 시, 메시지 제목 미입력 후 발송가능여부 (현재는 무조건 입력 필요) </p>
@@ -71,6 +63,14 @@
         <details>
             <summary>1월</summary>
               <p> ~ 24.01.31 : [홀세일 / 중계] 업무배치 </p>
+        </details> 
+      </td>    
+    </tr>
+    <tr>
+      <td>
+        <details>
+            <summary>홀딩</summary>
+                <p> ~ holding : [포탈 전체] 로그인 암호화모듈 변경 </p>
         </details> 
       </td>    
     </tr>
