@@ -18,6 +18,8 @@
       <td>
         <details>
             <summary>5월</summary>
+                <p> ~ 24.05.23 : [중계 전체] 메시지 발송 시 브랜드 선택 후 대표 발신 번호 자동 입력되지 않는 현상 </p>
+                <p> ~ 24.05.23 : [중계 전체] 메시지 편집 시, 메시지 제목 미입력후 발송가능여부 (현재는 무조건 입력 필요) </p>
                 <p> ~ 24.05.09 : [중계 전체] TBL_PORTAL_MSG_HIST(ETC), TBL_PORTAL_INVALID_MSG(ETC) 테이블 내 HOST_ADDR 컬럼 변경 (WEBHOOK_HOST_ADDR) </p>
         </details> 
       </td>    
