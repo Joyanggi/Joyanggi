@@ -9,9 +9,17 @@
       <td>
         <details open>
             <summary>진행중</summary>
-            <p> ~ ing : [중계 고객] 메시지 발송 시 브랜드 선택 후 대표 발신 번호 자동 입력되지 않는 현상 </p>
-            <p> ~ ing : [중계 고객] 메시지 편집 시, 메시지 제목 미입력 후 발송가능여부 (현재는 무조건 입력 필요) </p>
+            <p> ~ ing : </p>
+            <p> ~ ing : </p>
         </details>
+      </td>    
+    </tr>
+    <tr>
+      <td>
+        <details>
+            <summary>6월</summary>
+                <p> ~ 24.06.11 : [중계 전체] 5월 PKG PRD 상용 배포작업 </p>
+        </details> 
       </td>    
     </tr>
     <tr>
