@@ -10,7 +10,6 @@
         <details open>
             <summary>진행중</summary>
             <p> ~ ing : </p>
-            <p> ~ ing : </p>
         </details>
       </td>    
     </tr>
