@@ -2,7 +2,7 @@
     <h1 align="center">🧑‍💻 Now </h1>
     <table>
     <th>
-      <h3>KT RCS </h3>
+      <h3> KT RCS [서비스플랫폼_SM개발_메시지 (RCS 홀세일 / RCS 중계)] </h3>
       <p>24.02.01 ~ ing </p>
     </th>
     <tr>
