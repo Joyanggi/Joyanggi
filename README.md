@@ -78,14 +78,6 @@
         </details> 
       </td>    
     </tr>
-    <tr>
-      <td>
-        <details>
-            <summary>홀딩</summary>
-                <p> ~ holding : [포탈 전체] 로그인 암호화모듈 변경 </p>
-        </details> 
-      </td>    
-    </tr>
   </table>
     <h1 align="center">🧑‍💻 History </h1>
     <details>
