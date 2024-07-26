@@ -14,9 +14,16 @@
       <td>
         <details open>
             <summary>진행중</summary>
-            <p> ~ 24.07.10 : [중계 고객] 2024년 개인정보 이용 제공 내역 통지 시행 요청 </p>
-            <p> ~ 24.07.08 : [중계 관리자] 과금통계 전체조회 시 TypeERROR발생 </p>
         </details>
+      </td>    
+    </tr>
+    <tr>
+      <td>
+        <details>
+            <summary>7월</summary>
+              <p> ~ 24.07.10 : [중계 고객] 2024년 개인정보 이용 제공 내역 통지 시행 요청 </p>
+              <p> ~ 24.07.08 : [중계 관리자] 과금통계 전체조회 시 TypeERROR발생 </p>
+        </details> 
       </td>    
     </tr>
     <tr>
