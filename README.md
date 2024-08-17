@@ -3,12 +3,12 @@
   <p align="center"> <img width="150" src="https://user-images.githubusercontent.com/101302590/230821479-ae70b5db-f242-4da1-bda2-84ae606e2e93.gif"> </p>
 </p>
 <div align="center">
-    <h1 align="center">🧑‍💻 Now </h1>
+<!--     <h1 align="center">🧑‍💻 Now </h1>
     <table>
     <th>
         <h3> KT RCS </h3>
-<!--         <h4> 서비스플랫폼_SM개발_메시지 (RCS 홀세일 / RCS 중계) </h4> -->
-      <p>24.02.01 ~ ing </p>
+         <h4> 서비스플랫폼_SM개발_메시지 (RCS 홀세일 / RCS 중계) </h4>
+       <p>24.02.01 ~ ing </p>
     </th>
     <tr>
       <td>
@@ -138,7 +138,7 @@
       <td><p>  ~ 23.12.19 : 개발보안의 이해, 보안검증 및 개발보안 설계기준, 정보보안 Compliance점검, 개발보안 취약 사례 및 대응 방안 </p></td>
     </tr>
   </table>
-    </details>
+    </details> -->
     
   <div>
     <h1 align="center">📚 Tech Stack </h1>
@@ -151,6 +151,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"><br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Azure-2496ED?style=for-the-badge&logo=Azure&logoColor=white"> -->
   </div>
 
   <div>
