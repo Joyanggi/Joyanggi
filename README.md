@@ -3,6 +3,23 @@
   <p align="center"> <img width="150" src="https://user-images.githubusercontent.com/101302590/230821479-ae70b5db-f242-4da1-bda2-84ae606e2e93.gif"> </p>
 </p>
 <div align="center">
+  <table>
+    <th>
+        <h2> KT RCS </h2>
+         <h5> 서비스플랫폼_SM개발_메시지</h5>
+         <h4> RCS 중계 (PORTAL) </h4>
+       <p>23.10.10 ~ 24.11.06 </p>
+    </th>
+    <th>
+        =>
+    </th>
+    <th>
+        <h2> KT RCS </h2>
+        <h5> 서비스플랫폼_SM개발_메시지 </h5>
+        <h4> RCS 홀세일 (RCS, RSS, RQS) </h4>
+       <p>24.11.06 ~ ing </p>
+    </th>  
+  </table>
 <!--     <h1 align="center">🧑‍💻 Now </h1>
     <table>
     <th>
