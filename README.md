@@ -16,7 +16,7 @@
     <th>
         <h2> KT RCS </h2>
         <h5> 서비스플랫폼_SM개발_메시지 </h5>
-        <h4> RCS 홀세일 (RCS, RSS, RQS) </h4>
+        <h4> RCS 홀세일 (RCS, RSS, RQS, BPS, PBS) </h4>
        <p>24.11.06 ~ ing </p>
     </th>  
   </table>
