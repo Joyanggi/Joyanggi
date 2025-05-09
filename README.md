@@ -17,8 +17,17 @@
         <h2> KT RCS </h2>
         <h5> 서비스플랫폼_SM개발_메시지 </h5>
         <h4> RCS 홀세일 (RCS, RSS, RQS, BPS, PBS) </h4>
-       <p>24.11.06 ~ ing </p>
-    </th>  
+       <p>24.11.06 ~ 2025.01.01 </p>
+    </th>
+    <th>
+        =>
+    </th>
+    <th>
+        <h2> KT RCS </h2>
+        <h5> 커뮤니케이션플랫폼_SM개발_메시지 </h5>
+        <h4> RCS 홀세일 (RCS, RSS, RQS, BPS, PBS, CMA, MRG, OMC) </h4>
+       <p>25.01.01 ~ ing </p>
+    </th>
   </table>
 <!--     <h1 align="center">🧑‍💻 Now </h1>
     <table>
