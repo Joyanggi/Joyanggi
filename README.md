@@ -3,7 +3,7 @@
   <p align="center"> <img width="150" src="https://user-images.githubusercontent.com/101302590/230821479-ae70b5db-f242-4da1-bda2-84ae606e2e93.gif"> </p>
 </p>
 <div align="center">
-  <table>
+  <!-- <table>
     <th>
         <h2> KT RCS </h2>
          <h5> 서비스플랫폼_SM개발_메시지</h5>
@@ -28,7 +28,7 @@
         <h4> RCS 홀세일 (RCS, RSS, RQS, BPS, PBS, CMA, MRG, OMC) </h4>
        <p>25.01.01 ~ ing </p>
     </th>
-  </table>
+  </table> -->
 <!--     <h1 align="center">🧑‍💻 Now </h1>
     <table>
     <th>
@@ -180,19 +180,17 @@
 <!--     <img src="https://img.shields.io/badge/Azure-2496ED?style=for-the-badge&logo=Azure&logoColor=white"> -->
   </div>
 
-  <div>
-    <h1 align="center">✏️ Study </h1>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </div>
+<div>
+    <!-- <h1 align="center">✏️ Study </h1> -->
+    <!-- <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> -->
+    <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
+  <!-- </div> -->
   
   <div>
     <h1 align="center">🔧 Tools </h1>
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
-    <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </div>
   
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
